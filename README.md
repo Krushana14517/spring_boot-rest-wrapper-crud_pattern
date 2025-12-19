@@ -1,0 +1,1 @@
+# spring_boot-rest-wrapper-crud_pattern
